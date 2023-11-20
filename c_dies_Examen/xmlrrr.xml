@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <ID>111</ID>
+    <UserName>Boris</UserName>
+    <Email>bbb@upravdom.ru</Email>
+  </User>
+  <User>
+    <ID>222</ID>
+    <UserName>Maya</UserName>
+    <Email>mmm@upravdom.ru</Email>
+  </User>
+  <User>
+    <ID>333</ID>
+    <UserName>Kseniya</UserName>
+    <Email>kkk@upravdom.ru</Email>
+  </User>
+  <User>
+    <ID>444</ID>
+    <UserName>Evgeniy</UserName>
+    <Email>eee@upravdom.ru</Email>
+  </User>
+</ArrayOfUser>
